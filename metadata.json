@@ -1,0 +1,6 @@
+{
+  "name": "KATTAR",
+  "description": "Local 5-10km community communication and verified service platform with WhatsApp-style messaging, audio/group calls, nearby service discovery, and Devine Intelligence verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
